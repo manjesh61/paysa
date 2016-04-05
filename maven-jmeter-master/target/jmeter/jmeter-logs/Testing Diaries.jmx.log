@@ -1,0 +1,25 @@
+2016/03/22 13:56:34 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_IN 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: Loading user properties from: C:\Users\msurendra\Downloads\maven-jmeter-master\maven-jmeter-master\target\jmeter\bin\user.properties 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: Loading system properties from: C:\Users\msurendra\Downloads\maven-jmeter-master\maven-jmeter-master\target\jmeter\bin\system.properties 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: Copyright (c) 1998-2012 The Apache Software Foundation 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: Version 2.6 r1237317 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: java.version=1.7.0_67 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: os.name=Windows 7 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: os.arch=amd64 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: os.version=6.1 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: file.encoding=Cp1252 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: Default Locale=English (India) 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: JMeter  Locale=English (India) 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: JMeterHome=C:\Users\msurendra\Downloads\maven-jmeter-master\maven-jmeter-master\target\jmeter 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: user.dir  =C:\Users\msurendra\Downloads\maven-jmeter-master\maven-jmeter-master\target\jmeter\bin 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: PWD       =C:\Users\msurendra\Downloads\maven-jmeter-master\maven-jmeter-master\target\jmeter\bin 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: IP: 192.168.78.117 Name: AIPL-LT-273 FullName: AIPL-LT-273.altimetrik.com 
+2016/03/22 13:56:34 INFO  - jmeter.services.FileServer: Set new base='C:\Users\msurendra\Downloads\maven-jmeter-master\maven-jmeter-master\src\test\jmeter' 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: Loading file: C:\Users\msurendra\Downloads\maven-jmeter-master\maven-jmeter-master\src\test\jmeter\Testing Diaries.jmx 
+2016/03/22 13:56:34 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2016/03/22 13:56:34 INFO  - jmeter.JMeter: Running test (1458635194046) 
+2016/03/22 13:56:34 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Testing Diaries. 
+2016/03/22 13:56:34 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/03/22 13:56:34 INFO  - jmeter.engine.StandardJMeterEngine: All threads have been started 
+2016/03/22 13:56:34 INFO  - jmeter.threads.JMeterThread: Thread started: Testing Diaries 1-1 
