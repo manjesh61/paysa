@@ -20,10 +20,9 @@
 				<version>1.4.1</version>
 				<configuration>
 					<propertiesGlobal>
-                        <ThreadCount>3</ThreadCount>
-                        <LoopCount>10</LoopCount>
-                          <RampUp>0</RampUp>
-					</propertiesGlobal>
+                        <ThreadCount>1</ThreadCount>
+                        <LoopCount>2</LoopCount>
+                      		</propertiesGlobal>
 					<ignoreResultFailures>true</ignoreResultFailures>
 					<ignoreResultErrors>false</ignoreResultErrors>
 				</configuration>	
