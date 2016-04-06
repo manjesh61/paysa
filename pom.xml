@@ -21,8 +21,8 @@
 				<configuration>
 					<propertiesGlobal>
                         <ThreadCount>3</ThreadCount>
-                        <LoopCount>2</LoopCount>
-                          <RampUp>10</RampUp>
+                        <LoopCount>10</LoopCount>
+                          <RampUp>0</RampUp>
 					</propertiesGlobal>
 					<ignoreResultFailures>true</ignoreResultFailures>
 					<ignoreResultErrors>false</ignoreResultErrors>
