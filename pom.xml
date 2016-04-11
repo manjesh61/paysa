@@ -19,10 +19,7 @@
 				<artifactId>jmeter-maven-plugin</artifactId>
 				<version>1.4.1</version>
 				<configuration>
-					<propertiesGlobal>
-                        <ThreadCount>1</ThreadCount>
-                        <LoopCount>2</LoopCount>
-                      		</propertiesGlobal>
+					
 					<ignoreResultFailures>true</ignoreResultFailures>
 					<ignoreResultErrors>false</ignoreResultErrors>
 				</configuration>	
