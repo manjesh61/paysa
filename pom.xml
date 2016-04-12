@@ -30,6 +30,13 @@
 						<goals>
 							<goal>jmeter</goal>
 						</goals>
+						<configuration>
+                     <testResultsTimestamp>false</testResultsTimestamp>
+                     <propertiesUser>
+                        <Threadcount>${THREAD_COUNT}}</Threadcount>
+                        <Loopcount>${LOOP_COUNT}</Loopcount>
+                     </propertiesUser>
+                  </configuration>
 					</execution>
 				</executions>
 			</plugin>
